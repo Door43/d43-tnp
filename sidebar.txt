@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tnp:home|Door43 (tnp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tnp|d43-tnp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tnp/archive/master.zip|d43-tnp.zip]]
+
+**Recent Changes**
+{{changes>ns = tnp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tnp|Ethnologue data]]
+
